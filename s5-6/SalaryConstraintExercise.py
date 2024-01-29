@@ -1,6 +1,6 @@
 
 try:
-    gross = int(input("Enter your salary: "))
+    gross = float(input("Enter your salary: "))
     children = int(input("Enter the number of children you have: "))
 
 except ValueError:

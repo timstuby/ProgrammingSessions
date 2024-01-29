@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0bc1394c-ae33-425b-8bab-591965b2c204" name="Changes" comment="End of session 6">
+    <list default="true" id="0bc1394c-ae33-425b-8bab-591965b2c204" name="Changes" comment="Salary Exercise attempt1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/s5-6/SalaryConstraintExercise.py" beforeDir="false" afterPath="$PROJECT_DIR$/s5-6/SalaryConstraintExercise.py" afterDir="false" />
     </list>
@@ -83,7 +83,7 @@
       <workItem from="1705259519207" duration="597000" />
       <workItem from="1705502111351" duration="1573000" />
       <workItem from="1705503933268" duration="5714000" />
-      <workItem from="1706106922714" duration="12293000" />
+      <workItem from="1706106922714" duration="13643000" />
     </task>
     <task id="LOCAL-00001" summary="First commit">
       <option name="closed" value="true" />
@@ -117,7 +117,15 @@
       <option name="project" value="LOCAL" />
       <updated>1706116934313</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Salary Exercise attempt1">
+      <option name="closed" value="true" />
+      <created>1706541510686</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1706541510686</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -128,7 +136,8 @@
     <MESSAGE value="Added an extra print line" />
     <MESSAGE value="End of session 5" />
     <MESSAGE value="End of session 6" />
-    <option name="LAST_COMMIT_MESSAGE" value="End of session 6" />
+    <MESSAGE value="Salary Exercise attempt1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Salary Exercise attempt1" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/pythonProject$dishwasher.coverage" NAME="dishwasher Coverage Results" MODIFIED="1705502690353" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
