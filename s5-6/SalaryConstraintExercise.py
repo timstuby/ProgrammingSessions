@@ -1,12 +1,24 @@
 
 try:
-    salary = int(input("Enter your salary: "))
+    gross = int(input("Enter your salary: "))
+    children = int(input("Enter the number of children you have: "))
 
 except ValueError:
-    print("Your salary must be a number")
+    print("Your salary or number of children must be expressed in a number format.")
 
 else:
-    if salary < 0:
-        print("Are you in debt or are you stupid?")
-    elif salary > 1000:
-        
+    if gross < 0:
+        print("?")
+    elif gross < 1000 and gross > 0:
+        net = (0.9 + 0.01*children) * gross
+        print("Your salary is ", net)
+    elif gross < 2000 and gross >= 1000:
+        net = (0.88+ 0.01*children) * gross
+        print("Your salary is ", net)
+    elif gross < 4000 and gross >= 2000:
+        net = (0.86 + children*0.005) * gross
+        print("Your salary is ", net)
+    elif gross >= 4000:
+        net = (0.82 + children*0.005) * gross
+        print("Your salary is ", net)
+

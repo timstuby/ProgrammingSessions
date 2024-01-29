@@ -4,13 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0bc1394c-ae33-425b-8bab-591965b2c204" name="Changes" comment="Added an extra print line">
-      <change afterPath="$PROJECT_DIR$/s5-6/InputExample.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/s5-6/exceptions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/s5-6/s5-6.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/pythonProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/pythonProject.iml" afterDir="false" />
+    <list default="true" id="0bc1394c-ae33-425b-8bab-591965b2c204" name="Changes" comment="End of session 6">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/s5-6/SalaryConstraintExercise.py" beforeDir="false" afterPath="$PROJECT_DIR$/s5-6/SalaryConstraintExercise.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,16 +30,21 @@
   &quot;associatedIndex&quot;: 7
 }</component>
   <component name="ProjectId" id="2axU2CbSoLZKxIYpQGCRIGpLYPz" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.ConditionalExecution.executor": "Run",
     "Python.InputExample.executor": "Run",
+    "Python.SalaryConstraintExercise.executor": "Run",
     "Python.dishwasher.executor": "Run",
     "Python.exceptions.executor": "Run",
+    "Python.forloopfirst.executor": "Run",
     "Python.s3-4.executor": "Run",
     "Python.s5-6.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -82,7 +83,7 @@
       <workItem from="1705259519207" duration="597000" />
       <workItem from="1705502111351" duration="1573000" />
       <workItem from="1705503933268" duration="5714000" />
-      <workItem from="1706106922714" duration="4261000" />
+      <workItem from="1706106922714" duration="12293000" />
     </task>
     <task id="LOCAL-00001" summary="First commit">
       <option name="closed" value="true" />
@@ -100,7 +101,23 @@
       <option name="project" value="LOCAL" />
       <updated>1705504180998</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="End of session 5">
+      <option name="closed" value="true" />
+      <created>1706111336931</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1706111336931</updated>
+    </task>
+    <task id="LOCAL-00004" summary="End of session 6">
+      <option name="closed" value="true" />
+      <created>1706116934313</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1706116934313</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -109,13 +126,18 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First commit" />
     <MESSAGE value="Added an extra print line" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added an extra print line" />
+    <MESSAGE value="End of session 5" />
+    <MESSAGE value="End of session 6" />
+    <option name="LAST_COMMIT_MESSAGE" value="End of session 6" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/pythonProject$dishwasher.coverage" NAME="dishwasher Coverage Results" MODIFIED="1705502690353" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/ProgrammingSessions$exceptions.coverage" NAME="exceptions Coverage Results" MODIFIED="1706110747882" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/s5-6" />
     <SUITE FILE_PATH="coverage/ProgrammingSessions$s3_4.coverage" NAME="s3-4 Coverage Results" MODIFIED="1705510695800" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/ProgrammingSessions$s5_6.coverage" NAME="s5-6 Coverage Results" MODIFIED="1706107607366" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ProgrammingSessions$ConditionalExecution.coverage" NAME="ConditionalExecution Coverage Results" MODIFIED="1706113904655" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/s5-6" />
+    <SUITE FILE_PATH="coverage/ProgrammingSessions$SalaryConstraintExercise.coverage" NAME="SalaryConstraintExercise Coverage Results" MODIFIED="1706541462280" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/s5-6" />
+    <SUITE FILE_PATH="coverage/ProgrammingSessions$forloopfirst.coverage" NAME="forloopfirst Coverage Results" MODIFIED="1706116886249" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/s5-6" />
     <SUITE FILE_PATH="coverage/ProgrammingSessions$InputExample.coverage" NAME="InputExample Coverage Results" MODIFIED="1706108978129" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
