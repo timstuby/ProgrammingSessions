@@ -4,11 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0bc1394c-ae33-425b-8bab-591965b2c204" name="Changes" comment="Salary Exercise attempt1">
-      <change afterPath="$PROJECT_DIR$/s7-8/Strings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/s7-8/stringslice.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/s7-8/whileexercise.py" afterDir="false" />
+    <list default="true" id="0bc1394c-ae33-425b-8bab-591965b2c204" name="Changes" comment="End of Session 7">
+      <change afterPath="$PROJECT_DIR$/exercisesession8/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercisesession8/.idea/exercisesession8.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercisesession8/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercisesession8/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercisesession8/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercisesession8/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/s7-8/formatstringexample.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/s7-8/link-exercise.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/s7-8/stringmethods.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercisesession8/decode_start.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercisesession8/decode_start.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,12 +56,15 @@
     "Python.dishwasher.executor": "Run",
     "Python.exceptions.executor": "Run",
     "Python.forloopfirst.executor": "Run",
+    "Python.formatstringexample.executor": "Run",
     "Python.s3-4.executor": "Run",
     "Python.s5-6.executor": "Run",
+    "Python.stringmethods.executor": "Run",
     "Python.stringslice.executor": "Run",
     "Python.whileexercise.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "last_opened_file_path": "/Users/timothy/PycharmProjects/ProgrammingSessions",
     "node.js.detected.package.eslint": "true",
@@ -90,7 +101,7 @@
       <workItem from="1705502111351" duration="1573000" />
       <workItem from="1705503933268" duration="5714000" />
       <workItem from="1706106922714" duration="14302000" />
-      <workItem from="1706711370955" duration="5238000" />
+      <workItem from="1706711370955" duration="8742000" />
     </task>
     <task id="LOCAL-00001" summary="First commit">
       <option name="closed" value="true" />
@@ -140,7 +151,15 @@
       <option name="project" value="LOCAL" />
       <updated>1706567504505</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="End of Session 7">
+      <option name="closed" value="true" />
+      <created>1706718134313</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1706718134314</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -152,17 +171,20 @@
     <MESSAGE value="End of session 5" />
     <MESSAGE value="End of session 6" />
     <MESSAGE value="Salary Exercise attempt1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Salary Exercise attempt1" />
+    <MESSAGE value="End of Session 7" />
+    <option name="LAST_COMMIT_MESSAGE" value="End of Session 7" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/pythonProject$dishwasher.coverage" NAME="dishwasher Coverage Results" MODIFIED="1705502690353" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/ProgrammingSessions$Strings.coverage" NAME="Strings Coverage Results" MODIFIED="1706713731148" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/s7-8" />
     <SUITE FILE_PATH="coverage/ProgrammingSessions$exceptions.coverage" NAME="exceptions Coverage Results" MODIFIED="1706110747882" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/s5-6" />
-    <SUITE FILE_PATH="coverage/ProgrammingSessions$whileexercise.coverage" NAME="whileexercise Coverage Results" MODIFIED="1706714521192" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/s7-8" />
     <SUITE FILE_PATH="coverage/ProgrammingSessions$s3_4.coverage" NAME="s3-4 Coverage Results" MODIFIED="1705510695800" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ProgrammingSessions$formatstringexample.coverage" NAME="formatstringexample Coverage Results" MODIFIED="1706720020780" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/s7-8" />
+    <SUITE FILE_PATH="coverage/pythonProject$dishwasher.coverage" NAME="dishwasher Coverage Results" MODIFIED="1705502690353" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ProgrammingSessions$whileexercise.coverage" NAME="whileexercise Coverage Results" MODIFIED="1706714521192" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/s7-8" />
     <SUITE FILE_PATH="coverage/ProgrammingSessions$s5_6.coverage" NAME="s5-6 Coverage Results" MODIFIED="1706107607366" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/ProgrammingSessions$ConditionalExecution.coverage" NAME="ConditionalExecution Coverage Results" MODIFIED="1706113904655" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/s5-6" />
     <SUITE FILE_PATH="coverage/ProgrammingSessions$stringslice.coverage" NAME="stringslice Coverage Results" MODIFIED="1706714996224" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/s7-8" />
+    <SUITE FILE_PATH="coverage/ProgrammingSessions$stringmethods.coverage" NAME="stringmethods Coverage Results" MODIFIED="1706721398788" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/s7-8" />
     <SUITE FILE_PATH="coverage/ProgrammingSessions$SalaryConstraintExercise.coverage" NAME="SalaryConstraintExercise Coverage Results" MODIFIED="1706541462280" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/s5-6" />
     <SUITE FILE_PATH="coverage/ProgrammingSessions$forloopfirst.coverage" NAME="forloopfirst Coverage Results" MODIFIED="1706116886249" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/s5-6" />
     <SUITE FILE_PATH="coverage/ProgrammingSessions$InputExample.coverage" NAME="InputExample Coverage Results" MODIFIED="1706108978129" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
