@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0bc1394c-ae33-425b-8bab-591965b2c204" name="Changes" comment="Salary Exercise attempt1">
+      <change afterPath="$PROJECT_DIR$/s7-8/Strings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/s7-8/stringslice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/s7-8/whileexercise.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/s5-6/SalaryConstraintExercise.py" beforeDir="false" afterPath="$PROJECT_DIR$/s5-6/SalaryConstraintExercise.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,11 +44,14 @@
     "Python.ConditionalExecution.executor": "Run",
     "Python.InputExample.executor": "Run",
     "Python.SalaryConstraintExercise.executor": "Run",
+    "Python.Strings.executor": "Run",
     "Python.dishwasher.executor": "Run",
     "Python.exceptions.executor": "Run",
     "Python.forloopfirst.executor": "Run",
     "Python.s3-4.executor": "Run",
     "Python.s5-6.executor": "Run",
+    "Python.stringslice.executor": "Run",
+    "Python.whileexercise.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
@@ -62,6 +67,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/s5-6" />
     </key>
   </component>
@@ -83,7 +89,8 @@
       <workItem from="1705259519207" duration="597000" />
       <workItem from="1705502111351" duration="1573000" />
       <workItem from="1705503933268" duration="5714000" />
-      <workItem from="1706106922714" duration="13643000" />
+      <workItem from="1706106922714" duration="14302000" />
+      <workItem from="1706711370955" duration="5238000" />
     </task>
     <task id="LOCAL-00001" summary="First commit">
       <option name="closed" value="true" />
@@ -125,7 +132,15 @@
       <option name="project" value="LOCAL" />
       <updated>1706541510686</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Salary Exercise attempt1">
+      <option name="closed" value="true" />
+      <created>1706567504505</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1706567504505</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -141,10 +156,13 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/pythonProject$dishwasher.coverage" NAME="dishwasher Coverage Results" MODIFIED="1705502690353" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ProgrammingSessions$Strings.coverage" NAME="Strings Coverage Results" MODIFIED="1706713731148" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/s7-8" />
     <SUITE FILE_PATH="coverage/ProgrammingSessions$exceptions.coverage" NAME="exceptions Coverage Results" MODIFIED="1706110747882" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/s5-6" />
+    <SUITE FILE_PATH="coverage/ProgrammingSessions$whileexercise.coverage" NAME="whileexercise Coverage Results" MODIFIED="1706714521192" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/s7-8" />
     <SUITE FILE_PATH="coverage/ProgrammingSessions$s3_4.coverage" NAME="s3-4 Coverage Results" MODIFIED="1705510695800" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/ProgrammingSessions$s5_6.coverage" NAME="s5-6 Coverage Results" MODIFIED="1706107607366" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/ProgrammingSessions$ConditionalExecution.coverage" NAME="ConditionalExecution Coverage Results" MODIFIED="1706113904655" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/s5-6" />
+    <SUITE FILE_PATH="coverage/ProgrammingSessions$stringslice.coverage" NAME="stringslice Coverage Results" MODIFIED="1706714996224" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/s7-8" />
     <SUITE FILE_PATH="coverage/ProgrammingSessions$SalaryConstraintExercise.coverage" NAME="SalaryConstraintExercise Coverage Results" MODIFIED="1706541462280" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/s5-6" />
     <SUITE FILE_PATH="coverage/ProgrammingSessions$forloopfirst.coverage" NAME="forloopfirst Coverage Results" MODIFIED="1706116886249" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/s5-6" />
     <SUITE FILE_PATH="coverage/ProgrammingSessions$InputExample.coverage" NAME="InputExample Coverage Results" MODIFIED="1706108978129" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
